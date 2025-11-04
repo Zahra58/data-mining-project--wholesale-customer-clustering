@@ -85,3 +85,26 @@ Or clone locally:
 git clone https://github.com/Zahra58/data-mining-project--wholesale-customer-clustering.git
 cd data-mining-project--wholesale-customer-clustering
 pip install -r requirements.txt
+
+
+## Model Artifacts Summary
+##  Trained Models
+| Model Type           | File Path | Description |
+|----------------------|------------|--------------|
+| SVM Classifier       | `models/svm_model.pkl` | Support Vector Machine used for classification |
+| Decision Tree        | `models/decision_tree_model.pkl` | Tree-based model for interpretability |
+| Random Forest        | `models/random_forest_model.pkl` | Ensemble learning for better generalization |
+| Logistic Regression  | `models/log_reg_model.pkl` | Baseline linear classifier |
+| KNN (k=3)            | `models/knn_k3_model.pkl` | Instance-based learner |
+
+<p align="center">
+  <img src="images/banner.png" alt="Wholesale Customer Segmentation Project Banner">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zahra58"><img src="https://img.shields.io/badge/GitHub-Zahra58-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/zahraetebari/"><img src="https://img.shields.io/badge/LinkedIn-Zahra%20Etebari-blue?style=for-the-badge&logo=linkedin"></a>
+  <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/scikit--learn-1.5+-orange?style=for-the-badge&logo=scikit-learn">
+</p>
+
