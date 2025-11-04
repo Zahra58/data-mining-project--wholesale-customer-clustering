@@ -1,0 +1,12 @@
+##  How to Use
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Zahra58/data-mining-project--wholesale-customer-clustering.git
+   cd data-mining-project--wholesale-customer-clustering
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Run the notebook in Jupyter or Google Colab.
+
+4. View results and trained models under /models/.
