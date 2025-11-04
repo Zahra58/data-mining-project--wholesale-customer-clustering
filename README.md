@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://github.com/Zahra58/data-mining-project--wholesale-customer-clustering/blob/main/images/project_banner.png" 
+       alt="Wholesale Customer Segmentation Banner" width="1000">
+</p>
+
+<h4 align="center">
+  <em>End-to-End Data Mining • Customer Segmentation • Machine Learning • Visualization</em>
+</h4>
+
+
 # data-mining-project--wholesale-customer-clustering
 End-to-end data mining and clustering project
 #  Wholesale Customer Segmentation – End-to-End Data Mining Project
