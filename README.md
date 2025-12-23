@@ -3,18 +3,20 @@
   <img src="images/projectbanner.png" alt="Wholesale Customer Clustering Project Banner" width="100%">
 </p>
 
-<h1 align="center"> Data Mining Project — Wholesale Customer Clustering</h1>
-
-<p align="center">
-  <a href="https://github.com/Zahra58"><img src="https://img.shields.io/badge/GitHub-Zahra58-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/zahraetebari/"><img src="https://img.shields.io/badge/LinkedIn-Zahra%20Etebari-blue?style=for-the-badge&logo=linkedin"></a>
-  <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/scikit--learn-1.5+-orange?style=for-the-badge&logo=scikit-learn">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-red?style=for-the-badge&logo=jupyter">
-  <img src="https://img.shields.io/badge/Project-Type-Data%20Mining-green?style=for-the-badge&logo=databricks">
-</p>
 
 ---
+#  Wholesale Customer Segmentation
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/_Live_Demo-Hugging_Face-FF6B6B?style=for-the-badge)](https://huggingface.co/spaces/Zahra58/customer-segmentation)
+[![Website](https://img.shields.io/badge/_Portfolio-from--lab--to--ai-4ECDC4?style=for-the-badge)](https://from-lab-to-ai.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahra_Etebari-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zahraetebari/)
+
+**Building real-world AI that listens, understands, and helps people**  
+AI Engineer & Medical Scientist → ML Engineering
+
+</div>
 
 ##  Project Overview
 This project focuses on **customer segmentation** using the **Wholesale Customers Dataset**.  
